@@ -151,3 +151,5 @@ administrador, y faltar el runtime de Visual C++.
 ---
 
 *Escape from Tarkov · Actualizado 2026-10-26 · Compartido bajo licencia MIT*
+
+<!-- updated 2026-10-26 -->
